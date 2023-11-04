@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277434736592",
+    "project_id": "shayari-app-24a8f",
+    "storage_bucket": "shayari-app-24a8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277434736592:android:2d683824bd16f2b9e963d5",
+        "android_client_info": {
+          "package_name": "com.infinisync.shayariapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvVmmhjCWwvGSOSaC5ak3LmCuXXarzxyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
