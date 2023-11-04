@@ -44,7 +44,7 @@ To deploy this project, follow these steps:
    - Add data to the Firestore database for your Shayari.
    - This is where your Shayari content will be stored.
    - Icon Link:- https://drive.google.com/drive/folders/1js20RcX7trnbqPCz_ZhBrJiEvUVj7EA8?usp=sharing
-   - 
+     
    ## Firebase Setup Video Link
    - https://clipchamp.com/watch/qLOSiCzRuwR?utm_source=embed&utm_medium=embed&utm_campaign=watch
   
